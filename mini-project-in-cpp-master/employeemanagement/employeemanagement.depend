@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1508908022 source:c:\users\kody\desktop\mini-project-in-cpp-master\employeemanagement\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<iomanip>
+	<windows.h>
+	<dos.h>
+	<conio.h>
+	<cstdio>
+
